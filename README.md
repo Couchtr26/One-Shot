@@ -81,3 +81,5 @@ Find me on GitHub or reach out via email: GreyKnightSoftware.com
 ---
 
 *“The only way to be unsure is to be absolutely convinced you are sure.”*
+
+© 2025 Thomas Couch — Grey Knight Software
